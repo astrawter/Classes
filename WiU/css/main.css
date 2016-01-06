@@ -83,7 +83,7 @@ figure img{
 .sec{
 	clear: both;
 	margin-top: 40px;
-	
+
 }
 
 /*-------------------------------------------  links -------------------------------------------------------*/
@@ -110,7 +110,7 @@ footer{
 	@media only screen and (max-width: 959px) {
 		#wrapper{
 			width:98%;
-		}	
+		}
 	}
 	/* Tablet Portrait size to standard 960 (devices and browsers) */
 	@media only screen and (min-width: 768px) and (max-width: 959px) {
@@ -123,10 +123,10 @@ footer{
 			width: 35%;
 		}
 		.main figure img{
-			width: 100%;	
+			width: 100%;
 		}
 		.main p{
-			width: 60%;	
+			width: 60%;
 		}
 		td{
 			width: 50%;
@@ -137,7 +137,7 @@ footer{
 	@media only screen and (max-width: 767px) {
 		#wrapper{
 			width: 95%;
-	
+
 		}
 		.main, header, h2{
 			padding-left: 1%;
@@ -193,8 +193,29 @@ footer{
 		}
 		td{
 			width: 50%;
-			
+
 		}
 	}
+/* ------------------------------------------- Unique CSS -------------------------------------------------------*/
 
+/*footer*/
+footer {
+	display: 		block;
+	padding-top: 	10px;
+}
 
+.socialft {
+	float: 			right;
+	width: 			30px;
+	height: 			30px;
+	border-radius: 5px;
+	margin: 			auto 0px 10px 20px;
+}
+
+.socialft:hover {
+	transform: 		rotate(10deg);
+}
+
+.rtft:hover {
+	transform: 		rotate(-10deg);
+}
