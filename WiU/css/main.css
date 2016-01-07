@@ -5,32 +5,42 @@ body{
 	font-family: helvetica, arial, sans-serif;
 	color:#545257; /*changes color of the whole text*/
 	margin-top: 0;
+	margin-bottom: 0;
+	background-color: rgb(3,197,245);
 }
 #wrapper{
 	width:960px;
-	margin: 0 auto;
-	padding-left: 1%;
-	padding-right: 1%;
-	-webkit-box-shadow: 0px 0px 5px #ececec;
+	margin: 30px auto;
+	padding: 0 1%;
+	/*-webkit-box-shadow: 0px 0px 5px #ececec;
 	-moz-box-shadow:    0px 0px 5px #ececec;
 	box-shadow:         0px 0px 5px #ececec;
+	/*background-color: rgba(245,119,3,1);*/
 
 }
 /*-------------------------------------------  header -------------------------------------------------------*/
 
 header{
-	border-bottom: 1px solid #bbb8bf; /*changes color of border under project name*/
+	/*border-bottom: 1px solid #bbb8bf; /*changes color of border under project name*/
 }
 h1{
-	margin-top: 0;
+	margin: 0;
+	text-align: center;
 	padding-top: 10px;
+	color: #F57703;
+	text-shadow: 2px 2px 3px #eee;
+	font-size: 3em;
 }
 h2{
 	margin-top: 20px;
+	text-align: center;
+	color: #F57703;
+	text-shadow: 2px 2px 2px #eee;
+	font-size: 2em;
 }
 /*-------------------------------------------  table -------------------------------------------------------*/
 table{
-	background: #f7f7f9;  /*changes color of the background of the table*/
+	background: #F57703;  /*changes color of the background of the table*/
 	border-collapse: collapse;
 	width: 100%;
 }
@@ -39,15 +49,15 @@ tr{
 	border-color: inherit;
 }
 .odd{
-	background: #ececec; /*changes color of the stripes table*/
+	background-color: #FF8E00; /*changes color of the stripes table*/
 }
 th{
 	text-align: left;
 	padding: 1em 1em .5em;
 	font-weight: bold;
 	font-size: 120%;
-	color: #545257;  /*changes color of table hd text*/
-	background: #bbbcc0; /*changes color of table hd background*/
+	color: #03C5F5;  /*changes color of table hd text*/
+	background: #A85100; /*changes color of table hd background*/
 }
 th:first-child{
 	/*border-right: 1px solid #6a7680;*/
@@ -99,10 +109,29 @@ a:hover{
 footer{
 	margin-top: 20px;
 	margin-bottom: 20px;
+	display: 		block;
+	padding-top: 	10px;
 	padding-bottom: 20px;
 	text-align: center;
 	width: 90%;
 }
+
+.socialft {
+	float: 			right;
+	width: 				30px;
+	height: 			30px;
+	border-radius: 5px;
+	margin: 			auto 0px 10px 20px;
+}
+
+.socialft:hover {
+	transform: 		rotate(10deg);
+}
+
+.rtft:hover {
+	transform: 		rotate(-10deg);
+}
+
 /* ------------------------------------------- Media Queries -------------------------------------------------------*/
 
 
@@ -197,25 +226,3 @@ footer{
 		}
 	}
 /* ------------------------------------------- Unique CSS -------------------------------------------------------*/
-
-/*footer*/
-footer {
-	display: 		block;
-	padding-top: 	10px;
-}
-
-.socialft {
-	float: 			right;
-	width: 				30px;
-	height: 			30px;
-	border-radius: 5px;
-	margin: 			auto 0px 10px 20px;
-}
-
-.socialft:hover {
-	transform: 		rotate(10deg);
-}
-
-.rtft:hover {
-	transform: 		rotate(-10deg);
-}
