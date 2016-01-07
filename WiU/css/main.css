@@ -6,7 +6,7 @@ body{
 	color:#545257; /*changes color of the whole text*/
 	margin-top: 0;
 	margin-bottom: 0;
-	background-color: rgb(3,197,245);
+	background-color: rgba(3,197,245,.5);
 }
 #wrapper{
 	width:960px;
@@ -28,14 +28,14 @@ h1{
 	text-align: center;
 	padding-top: 10px;
 	color: #F57703;
-	text-shadow: 2px 2px 3px #eee;
+	text-shadow: 2px 2px 3px rgba(3,197,245,1);
 	font-size: 3em;
 }
 h2{
 	margin-top: 20px;
 	text-align: center;
 	color: #F57703;
-	text-shadow: 2px 2px 2px #eee;
+	text-shadow: 2px 2px 2px rgba(3,197,245,1);
 	font-size: 2em;
 }
 /*-------------------------------------------  table -------------------------------------------------------*/
@@ -103,7 +103,7 @@ a{
 	color: #475a80;  /*changes color of the links*/
 }
 a:hover{
-	text-decoration: underline;
+	color: #ffc;
 }
 /*-------------------------------------------  footer-------------------------------------------------------*/
 footer{
