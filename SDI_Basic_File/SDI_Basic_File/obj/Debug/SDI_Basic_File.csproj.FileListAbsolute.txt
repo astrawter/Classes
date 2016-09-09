@@ -1,0 +1,6 @@
+c:\users\haydee\documents\visual studio 2015\Projects\SDI_Basic_File\SDI_Basic_File\bin\Debug\SDI_Basic_File.exe.config
+c:\users\haydee\documents\visual studio 2015\Projects\SDI_Basic_File\SDI_Basic_File\bin\Debug\SDI_Basic_File.exe
+c:\users\haydee\documents\visual studio 2015\Projects\SDI_Basic_File\SDI_Basic_File\bin\Debug\SDI_Basic_File.pdb
+c:\users\haydee\documents\visual studio 2015\Projects\SDI_Basic_File\SDI_Basic_File\obj\Debug\SDI_Basic_File.csprojResolveAssemblyReference.cache
+c:\users\haydee\documents\visual studio 2015\Projects\SDI_Basic_File\SDI_Basic_File\obj\Debug\SDI_Basic_File.exe
+c:\users\haydee\documents\visual studio 2015\Projects\SDI_Basic_File\SDI_Basic_File\obj\Debug\SDI_Basic_File.pdb
