@@ -1,0 +1,10 @@
+c:\users\haydee\documents\visual studio 2015\Projects\AlexandriaStrawter_CE02\AlexandriaStrawter_CE02\bin\Debug\AlexandriaStrawter_CE02.exe.config
+c:\users\haydee\documents\visual studio 2015\Projects\AlexandriaStrawter_CE02\AlexandriaStrawter_CE02\bin\Debug\AlexandriaStrawter_CE02.exe
+c:\users\haydee\documents\visual studio 2015\Projects\AlexandriaStrawter_CE02\AlexandriaStrawter_CE02\bin\Debug\AlexandriaStrawter_CE02.pdb
+c:\users\haydee\documents\visual studio 2015\Projects\AlexandriaStrawter_CE02\AlexandriaStrawter_CE02\obj\Debug\AlexandriaStrawter_CE02.csprojResolveAssemblyReference.cache
+c:\users\haydee\documents\visual studio 2015\Projects\AlexandriaStrawter_CE02\AlexandriaStrawter_CE02\obj\Debug\AlexandriaStrawter_CE02.Form1.resources
+c:\users\haydee\documents\visual studio 2015\Projects\AlexandriaStrawter_CE02\AlexandriaStrawter_CE02\obj\Debug\AlexandriaStrawter_CE02.Properties.Resources.resources
+c:\users\haydee\documents\visual studio 2015\Projects\AlexandriaStrawter_CE02\AlexandriaStrawter_CE02\obj\Debug\AlexandriaStrawter_CE02.csproj.GenerateResource.Cache
+c:\users\haydee\documents\visual studio 2015\Projects\AlexandriaStrawter_CE02\AlexandriaStrawter_CE02\obj\Debug\AlexandriaStrawter_CE02.exe
+c:\users\haydee\documents\visual studio 2015\Projects\AlexandriaStrawter_CE02\AlexandriaStrawter_CE02\obj\Debug\AlexandriaStrawter_CE02.pdb
+C:\Users\Haydee\Documents\Visual Studio 2015\Projects\AlexandriaStrawter_CE02\AlexandriaStrawter_CE02\obj\Debug\AlexandriaStrawter_CE02.Stats.resources
