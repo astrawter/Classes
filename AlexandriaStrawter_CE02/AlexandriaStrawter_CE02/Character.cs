@@ -70,7 +70,7 @@ namespace AlexandriaStrawter_CE02
 
         public override string ToString()
         {
-            return name;
+            return name + " a " + gender;
         }
     }
 }
